@@ -7,3 +7,4 @@ Gunakan Format ini: <br>
 
 Berikut adalah daftar volunter yang diterima:
 * Johan Febriansyah [GitHub](https://github.com/johanfebriansyah10)
+* Jotaro Kujo
